@@ -1,0 +1,6 @@
+% shift + enter = renomear várias instâncias ao mesmo tempo
+imagem = imread("gato.jpg");
+% nos = num
+[a, l, nos]  = size(imagem); 
+% abre a imagem
+%imshow(imagem);
